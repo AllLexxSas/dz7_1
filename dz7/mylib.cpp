@@ -73,6 +73,7 @@ namespace task3
 		a = b;
 		b = temp;
 	}
+
 	#define ssss(a,b)SSSSS(a,b)
 
 	void SortArray(int* array)
